@@ -11,7 +11,8 @@ Below, you can see an example game state.
 
 No external dependencies.
 
-# Instructions
+# Run
+
 Compile the binary by running the Makefile:
 
     make compile
